@@ -1,0 +1,6 @@
+run server => npm run dev
+
+express 
+nodemon => Cada vez que hagamos un cambio se hara un reinicio pero el lo hace internamente, solo es guardar y el lo guarda y se reincia automaticamente 
+morgan => Nos permite por consola las peticiones que van llegando
+mongoose => permite poder concentarnos a mongodb y poder modelar los datos

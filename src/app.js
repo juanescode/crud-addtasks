@@ -20,3 +20,4 @@ app.use('/api',authRoutes);
 app.use('/api', taskRoutes);
 
 export default app;
+
